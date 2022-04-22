@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="levelone">君は機能不全の家族に生まれた,\n一生気づかれていなかった,\n家出を決意したのはそのためです,\n実在する人になるのは難しいだろう,\nリソースを賢く使ってね,\n頑張って!</string>
+
+    <string name="leveltwo">君は普通の子供時代を過ごった,\nしかし、この世界に対する君の幼稚な期待はすべて,\n厳しい現実に墜落た,\n君はこの世界で生き残る必要がある,\nすべてのパフォーマンスを維持する,\n頑張ってね!
+    </string>
+
+    <string name="levelthree">君の人生はゆったりと測定された,\nしかし人生は不公平,\n負けたストリークは君を底に沈めさせる,\n自分の世話をし、まともな生活を確保する,\n頑張ってね!
+    </string>
+
+    <string name="endgamez">君の負けだ!\n健康状態が悪いから、　死んだ,\n次回は健康に気をつけてね</string>
+    <string name="endgameeat">君の負けだ!\n飢餓で死んだ,\nв  次回は君の満腹を見てね</string>
+    <string name="endgamemood">君の負けだ!\n君は深いうつ病で死んだ,\nв  次回は君の気分を見てね</string>
+    <string name="endgameresp">君の負けだ!\n君の評判はゼロで、社会の追放者になった\nそして君は棒で殴られた\n次回は君の評判を見てね</string>
+    <string name="endgamestudy">君の負けだ!\n君の研究の問題のために、君は非常に愚かになった\君の人生の残りの部分は君が通りで拾わないといけないんだろう\n次回は君の研究を見て</string>
+    <string name="prog">おめでとう!\n勤勉と自己開発を通して,\nプログラマーとして働くことができる</string>
+    <string name="buzines">おめでとう!\n勤勉と自己開発を通して,\n君は成功したビジネスを始めた</string>
+    <string name="transport">おめでとう!\n今から、車を購入した後,\n宅配便の2倍の収入がある</string>
+    <string name="podsk">ヒント:\nプログラマーの仕事を開くには,\n数学とプログラミングを学んでね,\n開業するには、本を読んで英語を学んでね\n新しい仕事を開くには,\n君は新しい家を買う必要がある\nより多くのお金のために車を買う\n悪い習慣に注意して,\nそれは殺すことができる\nそして,\n選択は幻想だ </string>
+</resources>

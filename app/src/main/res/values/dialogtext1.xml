@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="levelone">You were born in a dysfunctional family,\nno attention was paid to you in your life,\nbecause of this, you decided to run away from home,\nyou face a difficult task to break into the people,\nuse your resources wisely,\nGood luck!
+    </string>
+
+    <string name="leveltwo">You had an ordinary childhood,\nno all your childhood expectations from this world,\n have been shattered by the harsh reality,\n you have to survive in this world,\n at the same time maintain all your indicators at the height,\n luck!
+    </string>
+
+    <string name="levelthree">Your life was unhurried and measured,\nbut life is unfair,\na streak of bad luck makes you sink to the bottom,\npull yourself together, and secure a worthy old age,\nGood luck!
+    </string>
+
+    <string name="endgamez">You lost!\nYou died due to poor health,\nnext time watch your health.</string>
+    <string name="endgameeat">You lost!\nYou died of hunger,\nnext time watch your satiety.</string>
+    <string name="endgamemood">You lost!\nYou died of deep depression,\nnext time watch your mood.</string>
+    <string name="endgameresp">You lost!\nYour reputation is at zero, you became an outcast in society\nand you were beaten with sticks\nnext time watch your reputation.</string>
+    <string name="endgamestudy">You lost!\nDue to problems with your studies,you have become very stupid\nfor the rest of your life, you will have to beg\nnext time,watch your studies.</string>
+    <string name="prog">Congratulations!\nThrough hard work and self-development,\nyou can now work as a programmer.</string>
+    <string name="buzines">Congratulations!\nThanks to your hard work,\nyou have opened a successful business.</string>
+    <string name="transport">Congratulations!\nNow, after purchasing a transport,\nyou can earn twice as much as a courier!</string>
+    <string name="podsk">Hint:\nTo open a job as a programmer,\nlearn math and programming,\nTo open a business, read books and learn English.\nTo open a new job, you \nneed to buy new housing.\nPurchase vehicles to earn more money.\nBe careful of bad guys habits,\nit can kill.\nAnd remember,\nchoice is an illusion. </string>
+</resources>

@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:id="@+id/bac1"
+    >
+<!--    android:background="#8bf1a8">-->
+
+
+    <TextView
+        android:id="@+id/apartment"
+        android:layout_width="92dp"
+        android:layout_height="53dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/obshaga"
+        android:textColor="#100F0F"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.987"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.207" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="76dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/apart_old"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.198" />
+
+        <TextView
+            android:id="@+id/car"
+            android:layout_width="93dp"
+            android:layout_height="44dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/peshkom"
+            android:textColor="#100F0F"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.99"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.137" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="76dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/transport2"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.133" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="76dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/ucheba"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.091" />
+
+        <TextView
+            android:id="@+id/study"
+            android:layout_width="64dp"
+            android:layout_height="19dp"
+            android:fontFamily="sans-serif-black"
+            android:text="50"
+            android:textColor="#100F0F"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.907"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.092" />
+
+        <TextView
+            android:id="@+id/respect"
+            android:layout_width="64dp"
+            android:layout_height="19dp"
+            android:fontFamily="sans-serif-black"
+            android:text="50"
+            android:textColor="#100F0F"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.907"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.054" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="76dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/reputacia"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.649"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.053" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="91dp"
+            android:layout_height="18dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/nastroenie"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.11"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.208" />
+
+        <TextView
+            android:id="@+id/mood"
+            android:layout_width="64dp"
+            android:layout_height="19dp"
+            android:fontFamily="sans-serif-black"
+            android:text="50"
+            android:textColor="#100F0F"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.417"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.209" />
+
+        <TextView
+            android:id="@+id/eat"
+            android:layout_width="64dp"
+            android:layout_height="19dp"
+            android:fontFamily="sans-serif-black"
+            android:text="30"
+            android:textColor="#100F0F"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.417"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.172" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="77dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/eat"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.107"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.17" />
+
+        <TextView
+            android:id="@+id/health"
+            android:layout_width="64dp"
+            android:layout_height="19dp"
+            android:fontFamily="sans-serif-black"
+            android:text="50"
+            android:textColor="#100F0F"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.417"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.133" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="77dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/health"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.107"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.13" />
+
+    <TextView
+        android:id="@+id/money"
+        android:layout_width="97dp"
+        android:layout_height="18dp"
+        android:fontFamily="sans-serif-black"
+        android:text="300"
+        android:textColor="#100F0F"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.356"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.092" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="59dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/money"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.104"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.091" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="57dp"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/age"
+            android:textColor="#050505"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.104"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.054" />
+
+    <TextView
+        android:id="@+id/vozrast"
+        android:layout_width="64dp"
+        android:layout_height="19dp"
+        android:fontFamily="sans-serif-black"
+        android:text="20"
+        android:textColor="#100F0F"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.417"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.054" />
+
+
+    <LinearLayout
+        android:id="@+id/bac"
+        android:layout_width="280dp"
+        android:layout_height="180dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.866">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/foodfeed"
+            android:layout_width="wrap_content"
+            android:layout_height="46dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/poest"
+            android:textColor="#100F0F"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.417"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.054">
+        </TextView>
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="Doest_ostatki_v_stolovke"
+                    android:text="@string/b_student_eat1" />
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="Salat_is_ovoce"
+                    android:text="@string/b_student_eat2" />
+
+                <Button
+                    android:id="@+id/button3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="doshik"
+                    android:text="@string/b_student_eat3" />
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="pokushat_v_stolovke"
+                    android:text="@string/b_student_eat4" />
+
+                <Button
+                    android:id="@+id/button5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="eat_shaurma"
+                    android:text="@string/b_student_eat5" />
+
+                <Button
+                    android:id="@+id/button6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="gora"
+                    android:text="@string/b_student_eat6" />
+
+                <Button
+                    android:id="@+id/button7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:onClick="restourant"
+                    android:text="@string/b_student_eat7" />
+        <TextView
+
+            android:id="@+id/zarabotat"
+            android:layout_width="wrap_content"
+            android:layout_height="46dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/rabota"
+            android:textColor="#100F0F"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.417"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.054">
+        </TextView>
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button1_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab1"
+            android:onClick="fontan"/>
+
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button2_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab2"
+            android:onClick="listovki"/>
+
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button3_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab3"
+            android:onClick="kura"/>
+
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button4_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab4"
+            android:onClick="otobrat"/>
+
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button5_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab5"
+            android:onClick="ograbit"/>
+
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button6_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab6"
+            android:onClick="programm"/>
+
+        <Button
+            android:layout_margin="5dp"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:id="@+id/button7_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_student_rab7"
+            android:onClick="business"/>
+
+
+
+                <TextView
+                    android:id="@+id/study_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/ucheba1"
+                    android:textColor="#100F0F"
+                    android:textSize="24sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.417"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.054">
+                </TextView>
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button1_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study1"
+                    android:onClick="vitamin"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button2_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study2"
+                    android:onClick="domashka"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button3_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study3"
+                    android:onClick="inyz"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button4_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study4"
+                    android:onClick="math"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button5_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study5"
+                    android:onClick="podlizat"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button6_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study6"
+                    android:onClick="book"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button7_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_study7"
+                    android:onClick="uchitprogramm"/>
+                <TextView
+
+                    android:id="@+id/zdorovie"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/health1"
+                    android:textColor="#100F0F"
+                    android:textSize="24sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.417"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.054">
+                </TextView>
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button1_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health1"
+                    android:onClick="rest"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button2_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health2"
+                    android:onClick="romachka"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button3_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health3"
+                    android:onClick="pill"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button4_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health4"
+                    android:onClick="gosp"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button5_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health5"
+                    android:onClick="lichvrach"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button6_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health6"
+                    android:onClick="sanatoriy"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button7_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_health7"
+                    android:onClick="gospvip"/>
+                <TextView
+                    android:id="@+id/nastroenie"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/nastroenie1"
+                    android:textColor="#100F0F"
+                    android:textSize="24sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.417"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.054">
+                </TextView>
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button1_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_mood1"
+                    android:onClick="medit"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button2_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_mood2"
+                    android:onClick="zoo"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button3_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_mood3"
+                    android:onClick="computer"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button4_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_mood4"
+                    android:onClick="govno"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button5_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_mood5"
+                    android:onClick="gym"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button6_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_mood6"
+                    android:onClick="club"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button7_5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Слетать за границу(50000р)"
+                    android:onClick="more"/>
+                <TextView
+                    android:id="@+id/transport"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/transport1"
+                    android:textColor="#100F0F"
+                    android:textSize="24sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.417"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.054">
+                </TextView>
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button1_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_car1"
+                    android:onClick="roliki"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button2_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_car2"
+                    android:onClick="samokat"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button3_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_car3"
+                    android:onClick="bike"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button4_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_car4"
+                    android:onClick="electrosamokat"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button5_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_car5"
+                    android:onClick="goldroliki"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button6_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_car6"
+                    android:onClick="machina"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button7_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Роллс Ройс(10000000)"
+                    android:onClick="vert"/>
+                <TextView
+                    android:id="@+id/kvartira"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/apart1"
+                    android:textColor="#100F0F"
+                    android:textSize="24sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.417"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.054">
+                </TextView>
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button1_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart1"
+                    android:onClick="bigpalat"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button2_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart2"
+                    android:onClick="kompan"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button3_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart3"
+                    android:onClick="kvarkomuns"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button4_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart4"
+                    android:onClick="kompansvoi"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button5_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart5"
+                    android:onClick="kvark"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button6_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart6"
+                    android:onClick="dom"/>
+
+                <Button
+                    android:layout_margin="5dp"
+                    android:background="@drawable/button_stroke_black95_press_white"
+                    android:id="@+id/button7_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/b_student_apart7"
+                    android:onClick="villa"/>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

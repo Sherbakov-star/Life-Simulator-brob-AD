@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="levelone">Vous êtes né dans une famille dysfonctionnelle,\naucune attention na été accordée à vous dans votre vie,\nà cause de cela, vous avez décidé de fuir la maison,\nvous faites face à une tâche difficile pour pénétrer dans la personnes,\nutilisez vos ressources à bon escient,\nBonne chance !</string>
+    <string name="leveltwo">Vous avez eu une enfance ordinaire,\naucune de vos attentes denfance vis-à-vis de ce monde,\n ont été brisées par la dure réalité,\n vous devez survivre dans ce monde,\n en même temps maintenez tous vos indicateurs à la hauteur,\n bonne chance !
+     </string>
+
+    <string name="levelthree">Votre vie était calme et mesurée,\nmais la vie est injuste,\nune séquence de malchance vous fait couler au fond,\nressaisissez-vous et assurez-vous une vieillesse digne,\nBonne chance !
+     </string>
+
+    <string name="endgamez">Vous avez perdu !\nVous êtes mort à cause dune mauvaise santé,\nla prochaine fois, surveillez votre santé.</string>
+    <string name="endgameeat">Vous avez perdu !\nVous êtes mort de faim,\nla prochaine fois surveillez votre satiété.</string>
+    <string name="endgamemood">Vous avez perdu !\nVous êtes mort dune profonde dépression,\nla prochaine fois, surveillez votre humeur.</string>
+    <string name="endgameresp">Vous avez perdu !\nVotre réputation est à zéro, vous êtes devenu un paria de la société\net vous avez été battu à coups de bâton\nla prochaine fois, surveillez votre réputation.</string>
+    <string name="endgamestudy">Vous avez perdu !\nEn raison de problèmes avec vos études,vous êtes devenu très stupide\npour le reste de votre vie, vous devrez mendier\nla prochaine fois, surveillez vos études.</string>
+    <string name="prog">Félicitations !\nGrâce à un travail acharné et à lauto-développement,\nvous pouvez maintenant travailler en tant que programmeur.</string>
+    <string name="buzines">Félicitations !\nGrâce à votre travail acharné,\nvous avez ouvert une entreprise prospère.</string>
+    <string name="transport">Félicitations !\nMaintenant, après avoir acheté un transport,\nvous pouvez gagner deux fois plus quun coursier !</string>
+    <string name="podsk">Astuce :\nPour ouvrir un emploi en tant que programmeur,\napprendre les mathématiques et la programmation,\nPour ouvrir une entreprise, lire des livres et apprendre langlais.\nPour ouvrir un nouvel emploi, vous \nne devez en acheter un nouveau un logement.\nAchetez des véhicules pour gagner plus dargent.\nFaites attention aux mauvaises habitudes,\nelles peuvent tuer.\nEt rappelez-vous,\nle choix est une illusion. </string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="levelone">Naciste en una familia disfuncional,\nno se te prestó atención en tu vida,\ndebido a esto, decidiste huir de casa,\nenfrentas una tarea difícil para irrumpir en la gente,\nuse sus recursos sabiamente,\n¡Buena suerte!
+     </string>
+
+    <string name="leveltwo">Tuviste una infancia ordinaria,\nno todas tus expectativas infantiles de este mundo,\n han sido destrozadas por la dura realidad,\n tienes que sobrevivir en este mundo,\n al mismo tiempo mantén todos tus indicadores a la altura,\n ¡suerte!
+     </string>
+
+    <string name="levelthree">Tu vida fue pausada y mesurada,\npero la vida es injusta,\nuna racha de mala suerte te hace hundirte hasta el fondo,\nrecupérate y asegura una vejez digna,\n¡Buena suerte!
+     </string>
+
+    <string name="endgamez">Y¡Perdiste! \n Moriste debido a problemas de salud, \n la próxima vez cuida tu salud.</string>
+    <string name="endgameeat">¡Perdiste!\nTe moriste de hambre,\nla próxima vez cuida tu saciedad.</string>
+    <string name="endgamemood">¡Perdiste! \nMoriste de una profunda depresión,\n la próxima vez cuida tu estado de ánimo.</string>
+    <string name="endgameresp">¡Perdiste!\nTu reputación está en cero, te convertiste en un paria en la sociedad\ny te golpearon con palos\nla próxima vez cuida tu reputación.</string>
+    <string name="endgamestudy">¡Perdiste!\nDebido a problemas con tus estudios, te has vuelto muy estúpido\npara el resto de tu vida, tendrás que ser\nla próxima vez,cuida tus estudios.</string>
+    <string name="prog">¡Felicitaciones!\nA través del trabajo duro y el desarrollo personal,\nahora puede trabajar como programador.</string>
+    <string name="buzines">¡Felicitaciones!\nGracias a su arduo trabajo,\nha abierto un negocio exitoso.</string>
+    <string name="transport">¡Felicitaciones!\nahora, después de comprar un transporte,\npuedes ganar el doble que un mensajero.</string>
+    <string name="podsk">Sugerencia:\nPara abrir un trabajo como programador,\naprende matemáticas y programación,\nPara abrir un negocio, lee libros y aprende inglés.\nPara abrir un nuevo trabajo, \nnecesitas comprar nuevos vivienda.\nCompra vehículos para ganar más dinero.\nTen cuidado con los hábitos de los malos,\npueden matar.\nY recuerda,\nla elección es una ilusión. </string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="levelone">Du wurdest in einer dysfunktionalen Familie geboren,\nin deinem Leben wurde dir keine Aufmerksamkeit geschenkt,\naus diesem Grund hast du dich entschieden, von zu Hause wegzulaufen,\ndu stehst vor einer schwierigen Aufgabe, in die einzubrechen Leute,\nnutze deine Ressourcen mit Bedacht,\nViel Glück!
+     </string>
+
+ <string name="leveltwo">Du hattest eine ganz normale Kindheit,\nnein all deine Kindheitserwartungen an diese Welt,\n wurden von der harten Realität erschüttert,\n du musst gleichzeitig in dieser Welt überleben,\n Halte alle deine Indikatoren auf der Höhe,\n Glück!
+     </string>
+
+ <string name="levelthree">Dein Leben war gemächlich und gemessen,\naber das Leben ist unfair,\neine Pechsträhne lässt dich auf den Grund sinken,\nreiß dich zusammen und sichere dir ein würdiges Alter,\nViel Glück!
+     </string>
+
+    <string name="endgamez">Du hast verloren!\nDu bist an schlechter Gesundheit gestorben,\nachte beim nächsten Mal auf deine Gesundheit.</string>
+    <string name="endgameeat">Du hast verloren!\nDu bist an Hunger gestorben,\nbeobachte das nächste Mal deine Sättigung.</string>
+    <string name="endgamemood">Du hast verloren!\nDu bist an tiefer Depression gestorben,\nbeobachte beim nächsten Mal deine Stimmung.</string>
+    <string name="endgameresp">Du hast verloren!\nDein Ruf ist bei null, du wurdest zu einem Ausgestoßenen der Gesellschaft\nund du wurdest mit Stöcken geschlagen\nbeobachte das nächste Mal deinen Ruf.</string>
+    <string name="endgamestudy">Du hast verloren!\nAufgrund von Problemen mit deinem Studium bist du sehr dumm geworden\nfür den Rest deines Lebens wirst du beim\nnächsten Mal auf dein Studium aufpassen müssen.</string>
+    <string name="prog">Herzlichen Glückwunsch!\nDurch harte Arbeit und Selbstentwicklung\nkönnen Sie jetzt als Programmierer arbeiten.</string>
+    <string name="buzines">Herzlichen Glückwunsch!\nDank Ihrer harten Arbeit\nhaben Sie ein erfolgreiches Geschäft eröffnet.</string>
+    <string name="transport">Herzlichen Glückwunsch!\nnachdem Sie ein Transportmittel gekauft haben,\nkönnen Sie doppelt so viel verdienen wie ein Kurier!</string>
+ <string name="podsk">Tipp:\nUm einen Job als Programmierer zu eröffnen,\nlerne Mathe und Programmieren,\num ein Geschäft zu eröffnen, Bücher zu lesen und Englisch zu lernen.\num einen neuen Job zu eröffnen, musst du neue kaufen Wohnungen.\nKaufe Fahrzeuge, um mehr Geld zu verdienen.\nAchte auf die Angewohnheiten der Bösewichte,\nkann töten.\nUnd denk daran,\ndie Wahl ist eine Illusion. </string>
+</resources>
